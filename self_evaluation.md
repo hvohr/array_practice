@@ -1,0 +1,4 @@
+# Arrays Assignment Self Evaluation
+- Initially, I was slightly confused on the concept of arrays and using the various different methods. After the assignment and also trial and error when working through the practice problems, I do feel significantly more comfortable with the content as a whole.
+- Prior to the next lesson, I want to review this assignment as a whole and practice the different array methods and their proper formatting. I learned that practice makes perfect and repetition is an important study strategy. I also might research other common array methods that we did not use today and practice those as well for my own benefit.
+- I was a little confused about the `splice` array method and even though I understand it more now, I do want to keep researching it to understand it even further.
